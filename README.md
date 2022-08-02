@@ -12,9 +12,13 @@ The given data included the outcomes, dates, country, currency, goal amount rais
 
 One part of the analysis is the Outcomes Based on Launch Date. Using excel, I created a pivot table with the "theater" category only based on the launch date. The table can be filtered by year, and the table itself shows the number of successful, live, failed and canceled outcomes by month. I then created a line graph demonstrated the information in this pivot table. 
 
+![Theaters Outcomes Vs. Launch Date](https://github.com/madelinepropis/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+
 ### Analysis of Outcomes Based on Goals
 
 Another part of the analyis is the Outcomes Based on Goals. Similar to the Outcomes Based on Launch Date analysis, I used excel to create a table with "=countifs" formulas to find the number of successful, failed and canceled campaigns only for the "plays" subcategory based on the goal amount. I then calculated the total number of projets for each goal and calculated the percentages of successful, failed and canceled campaigns. I used this data to create a line graph demonstrating the outcomes based on the goal amount. 
+
+![Outcomes vs. Goals](https://github.com/madelinepropis/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
